@@ -9,6 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=170&section=header&text=Code%20%7C%20Create%20%7C%20Innovate&fontSize=29&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Animated header banner" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Shashank220606-181717?style=for-the-badge&logo=github)](https://github.com/Shashank220606)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asvshashank)
 [![Profile Views](https://komarev.com/ghpvc/?username=Shashank220606&style=for-the-badge&color=00F7FF)](https://github.com/Shashank220606)
 
 </div>
@@ -112,6 +113,7 @@ A repository for development work completed during internship learning and pract
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Shashank220606)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asvshashank)
 
 ### 💡 Learn. Build. Improve. Repeat.
 
